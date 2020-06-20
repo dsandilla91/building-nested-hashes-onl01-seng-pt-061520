@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-def bonus epic_tragedy[:hero][:name][:"Romeo"][:age][:"15"][:status] = ["dead"]
+epic_tragedy[:hero][:name][:"Romeo"][:age][:"15"][:status] = ["dead"]
 epic_tragedy[:heroine][:name][:"Juliet"][:age][:"15"][:status] = ["dead"] 
 puts epic_tragedy
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
